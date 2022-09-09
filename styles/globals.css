@@ -19,8 +19,14 @@ a {
   html {
     color-scheme: dark;
   }
+
   body {
     color: white;
     background: black;
   }
 }
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
